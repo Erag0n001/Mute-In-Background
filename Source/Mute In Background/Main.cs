@@ -34,7 +34,6 @@ namespace MuteInBackGround
 
         static void OnFocusChanged(bool hasFocus) 
         {
-            Printer.Warn(Configs.Muted);
             if (Configs.Muted)
             {
                 if (hasFocus)

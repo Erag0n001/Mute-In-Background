@@ -10,6 +10,6 @@ namespace MuteInBackground.Config
 {
     public class ConfigDataMute : ModConfig.ConfigData
     {
-        [Key(0)]public bool Muted = false;
+        [Key(0)]public bool Muted = true;
     }
 }

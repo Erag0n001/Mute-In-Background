@@ -1,0 +1,9 @@
+{
+    "Id" : "Eragon.MuteInBackground",
+    "SteamWorkshop" : true,
+    "Name" : "Mute in Background",
+    "Description" : "Adds the ability to mute sounds when unfocused.",
+    "ModVersion" : "1.0.0",
+    "GameVersion" : "0.12.6",
+    "Dependencies" : [ "Core" , "Eragon.ModConfig"]
+}
